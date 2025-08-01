@@ -87,14 +87,5 @@ PY
 5. Cambiar **escala** si necesitas más contraste.
 6. Exportar **CSV/JSON** desde “Resultados”.
 
-## 🧾 .gitignore sugerido
-```
-__pycache__/ *.pyc .venv/ .env
-backend/app/runtime/jobs/ backend/nuss3d/build/
-backend/app/runtime/**/*.txt backend/app/runtime/**/*.json
-node_modules/ frontend/node_modules/ frontend/dist/
-*.log .DS_Store .vscode/ .idea/
-```
-
 ## 📝 Licencia
 MIT (ajústala si el código C++ tiene otra licencia).
