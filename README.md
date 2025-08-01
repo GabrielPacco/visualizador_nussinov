@@ -87,5 +87,3 @@ PY
 5. Cambiar **escala** si necesitas más contraste.
 6. Exportar **CSV/JSON** desde “Resultados”.
 
-## 📝 Licencia
-MIT (ajústala si el código C++ tiene otra licencia).
