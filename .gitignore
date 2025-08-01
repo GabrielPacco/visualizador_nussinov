@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+backend/app/runtime/jobs/
+backend/nuss3d/build/
+backend/app/runtime/**/*.txt
+backend/app/runtime/**/*.json
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.log
+.DS_Store
+.vscode/
+.idea/
